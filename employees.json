@@ -1,0 +1,26 @@
+{
+  "company": "TechCorp",
+  "employees": [
+    {
+      "id": 101,
+      "name": "Rahul",
+      "department": "Engineering",
+      "salary": 75000,
+      "skills": ["Python", "SQL", "Docker"]
+    },
+    {
+      "id": 102,
+      "name": "Priya",
+      "department": "Marketing",
+      "salary": 65000,
+      "skills": ["SEO", "Google Ads", "Analytics"]
+    },
+    {
+      "id": 103,
+      "name": "Amit",
+      "department": "Engineering",
+      "salary": 85000,
+      "skills": ["Python", "AWS", "Kubernetes"]
+    }
+  ]
+}
